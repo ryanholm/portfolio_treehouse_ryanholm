@@ -66,13 +66,12 @@ header {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
+  margin: 50px;
   width: 150px;
   height: 150px;
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
-  padding: 20px;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
