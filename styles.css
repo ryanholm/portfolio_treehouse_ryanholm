@@ -65,6 +65,9 @@ header {
 header {
   line-height: 1.5;
 }
+
+/* svg image replacement possible to scale image properly */
+
 header .profile-image {
   margin-top: 50px;
   width: 185px;
