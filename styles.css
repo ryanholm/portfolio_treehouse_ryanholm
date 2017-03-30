@@ -66,8 +66,6 @@ header {
   line-height: 1.5;
 }
 
-/* svg image replacement possible to scale image properly */
-
 header .profile-image {
   margin-top: 50px;
   width: 185px;
@@ -89,7 +87,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: white;
 }
 .card {
   margin: 30px;
