@@ -97,7 +97,7 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: left;
   background: #fff;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 4px solid #737373;
   border-radius: 6px;
   transition: all .5s;
 }
